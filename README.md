@@ -1,2 +1,1 @@
-# Typescript
-45 Exercises with typescript and Node.js
+"Welcome to my TypeScript Beginner's Playground! 🚀 Dive into 45 simple yet engaging code snippets compiled in TypeScript and ready to run with JavaScript. This repository is designed to help beginners grasp fundamental concepts while exploring the power and simplicity of TypeScript. From basic data types to loops and functions, each snippet is crafted to provide hands-on learning. Let's embark on this coding journey together! 💻 #TypeScript #BeginnerFriendly #LearningToCode"
